@@ -3,8 +3,8 @@
 # sub     :: get_himawari8.sh
 # purpose :: otenki kaisetsu
 #
-#                  coded by Toyooka 
-#                   @2018.12.12
+# NOTE :: THIS CODE IS NOT CODED by REO KUMAGAI.
+#         BUT CODED BY DAICHI TOYOOKA 
 #------------------------------------
 
 yyyy=2020
