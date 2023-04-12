@@ -2,11 +2,10 @@
 #--------------------------------------------
 #  sub       :: get_tenkizu.sh
 #  purpose   :: you can get tenkizu
-#  
-#                           coded by Toyooka
-#                            @2018.10.8
-#                           copied by Kumagai
-#                            @2019.04.21 
+#  NOTE      :: THIS CODE IS NOT CODED BY REO KUMAGAI,
+#               BUT CODED BY DAICHI TOYOOKA
+#  THIS CODE IS STORED IN THE REPOSITORY OBJECTED TO BACKUP.
+#   
 #--------------------------------------------
 
  set s_yy = 2020
